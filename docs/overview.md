@@ -1,3 +1,3 @@
 # Overall Overview
 
-![overview](../diagrams/overview.drawio.svg "overview")
+![overview](../diagrams/conceptOverview.drawio.svg "overview")
